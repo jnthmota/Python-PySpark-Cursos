@@ -13,11 +13,19 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
 <details>
   <summary>Python 3 – Mundo 1</summary>
   
-   * [Exercicio 01 - Deixando tudo pronto](PythonExercicios/desafio001.py)
+   * [Aula 01 - Seja um Programador](Aula/) 
   
-   * [Exercicio 02 - Respodendo ao Usuario](PythonExercicios/desafio001.py)
+   * [Aula 02 - Para que Serve Python](Aula/) 
   
-   * [Exercicio 03 - Somando dois números](PythonExercicios/desafio001.py)
+   * [Aula 03 - Instalando Python3 e o IDLE](Aula/)  
   
-   * [Exercicio 04 - Dissecando uma Variavel](PythonExercicios/ex004.py)
+   * [Aula 04 - Instalando PyCharm e Qpython](Aula/)  
+  
+   * [Aula 05 - Instalando PyCharm e Qpython](Aula/ex001.py)  
+    * [Exercicio 01 - Deixando tudo pronto](PythonExercicios/desafio001.py)  
+    * [Exercicio 02 - Respodendo ao Usuario](PythonExercicios/desafio001.py)
+  
+   * [Aula 06 - Tipos Primitivos](Aula/ex002.py)    
+    * [Exercicio 03 - Somando dois números](PythonExercicios/desafio001.py)  
+    * [Exercicio 04 - Dissecando uma Variavel](PythonExercicios/ex004.py)
  </details>
