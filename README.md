@@ -19,7 +19,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
   
    * [Aula 03 - Instalando Python3 e o IDLE](Aula/)  
   
-   * [Aula 04 - Instalando PyCharm e Qpython](Aula/)  
+   * [Aula 04 - Primeiros comandos em Python3](Aula/)  
   
    * [Aula 05 - Instalando PyCharm e Qpython](Aula/ex001.py)  
     * [Exercicio 01 - Deixando tudo pronto](PythonExercicios/desafio001.py)  
