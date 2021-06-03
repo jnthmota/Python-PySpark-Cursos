@@ -9,6 +9,15 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
   Curso em Video
 </h4>
 
+<hr>
 <details>
   <summary>Python 3 – Mundo 1</summary>
+  
+   * [Exercicio 01 - Deixando tudo pronto](PythonExercicios/desafio001.py)
+  
+   * [Exercicio 02 - Respodendo ao Usuario](PythonExercicios/desafio001.py)
+  
+   * [Exercicio 03 - Somando dois números](PythonExercicios/desafio001.py)
+  
+   * [Exercicio 04 - Dissecando uma Variavel](PythonExercicios/ex004.py)
  </details>
