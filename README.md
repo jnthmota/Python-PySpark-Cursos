@@ -9,7 +9,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
   Curso em Video
 </h4>
 
-<hr>
+
 <details>
   <summary>Python 3 – Mundo 1</summary>
   
