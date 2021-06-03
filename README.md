@@ -13,11 +13,11 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
 <details>
   <summary>Python 3 – Mundo 1</summary>
   
-   * [Aula 01 - Seja um Programador](Aula/) 
+   * [Aula 01 - Seja um Programador](Aula/ex000) 
   
-   * [Aula 02 - Para que Serve Python](Aula/) 
+   * [Aula 02 - Para que Serve Python](Aula/ex000) 
   
-   * [Aula 03 - Instalando Python3 e o IDLE](Aula/)  
+   * [Aula 03 - Instalando Python3 e o IDLE](Aula/ex000)  
   
    * [Aula 04 - Primeiros comandos em Python3](Aula/)  
   
