@@ -1,8 +1,9 @@
 # PythonCursos
-Esse repositório tem a finalidade de ajudas pessoas no desenvolvimento da linguagem Python e Pyspark com exercícios prontos
+Esse repositório tem a finalidade de ajudas pessoas no desenvolvimento da linguagem Python e Pyspark com exercícios resolvidos, porém eu indico voces também praticarem, pois com a pratica o resultado é sempre alcançado!
 
-Irei postar e armezanar aulas e exercicios disponibilizados pelo canal **[Curso em Video](https://www.cursoemvideo.com/)** e entre outros.
+Irei armezanar exercicios resolvidos de cursos de Python e PySpark 
 
+**[Curso em Video](https://www.cursoemvideo.com/)**
 
 <h4 align="left">
   Curso em Video
