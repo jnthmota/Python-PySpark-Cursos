@@ -28,4 +28,17 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
    * [Aula 06 - Tipos Primitivos](Aula/ex002.py)    
     * [Exercicio 03 - Somando dois números](PythonExercicios/desafio001.py)  
     * [Exercicio 04 - Dissecando uma Variavel](PythonExercicios/ex004.py)
+  
+   * [Aula 07 - Operadores Aritméticos](Aula/aula07.py)    
+    * [Exercício 05 – Antecessor e Sucessor](PythonExercicios/ex005.py)  
+    * [Exercício 06 – Dobro, Triplo, Raiz Quadrada](PythonExercicios/ex006.py)
+    * [Exercício 07 – Média Aritmética](PythonExercicios/ex007.py)  
+    * [Exercício 08 – Conversor de Medidas](PythonExercicios/ex008.py)
+    * [Exercício 09 – Tabuada](PythonExercicios/ex009.py)  
+    * [Exercício 10 – Conversor de Moedas](PythonExercicios/ex010.py)
+    * [Exercício 11 – Pintando Parede](PythonExercicios/ex011.py)  
+    * [Exercício 12 – Calculando Descontos](PythonExercicios/ex012.py)
+    * [Exercício 13 – Reajuste Salarial](PythonExercicios/ex013.py)  
+
+  
  </details>
