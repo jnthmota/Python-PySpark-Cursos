@@ -3,5 +3,7 @@
 a = int(input('Digite um valor: '))
 d = a * 2
 t = a * 3
-rq = a ** (1/2)
+#rq = a ** (1/2)
+#OU
+rq = pow(a, (1/2)) #POW BASE EXPONENCIAL **
 print('O seu dobro de {} é: {} \n O seu triplo de {} é: {} \n A  raiz Quadrada de {} é: {:.4}'.format(a, d, a, t, a, rq))
