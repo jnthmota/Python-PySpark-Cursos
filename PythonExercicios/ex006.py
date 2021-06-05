@@ -3,5 +3,5 @@
 a = int(input('Digite um valor: '))
 d = a * 2
 t = a * 3
-rq = a ** 2
-print('O seu dobro é: {} \n O seu triplo é: {} \n A sua raiz Quadrada é: {}'.format(d, t, rq))
+rq = a ** (1/2)
+print('O seu dobro é: {} \n O seu triplo é: {} \n A sua raiz Quadrada é: {:.4}'.format(d, t, rq))
