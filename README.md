@@ -39,6 +39,8 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 11 – Pintando Parede](PythonExercicios/ex011.py)     
     * [Exercício 12 – Calculando Descontos](PythonExercicios/ex012.py)   
     * [Exercício 13 – Reajuste Salarial](PythonExercicios/ex013.py)  
+    * [Exercício 14 – Conversor de Temperaturas](PythonExercicios/ex014.py)    
+    * [Exercício 15 – Aluguel de Carros](PythonExercicios/ex015.py)   
     
 
   
