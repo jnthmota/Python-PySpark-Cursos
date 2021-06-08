@@ -1,5 +1,4 @@
-#FAÇA UM PROGRAMA QUE LEIA UM NÚMERO INTEIRO QUALQUER E MOSTRE NA TELA A SUA TABUADA
-
+#09: Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada
 t = int(input('Tabuada: '))
 r1 = t*1
 r2 = t*2
