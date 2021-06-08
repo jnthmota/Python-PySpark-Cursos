@@ -40,8 +40,10 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 12 – Calculando Descontos](PythonExercicios/ex012.py)   
     * [Exercício 13 – Reajuste Salarial](PythonExercicios/ex013.py)  
     * [Exercício 14 – Conversor de Temperaturas](PythonExercicios/ex014.py)    
-    * [Exercício 15 – Aluguel de Carros](PythonExercicios/ex015.py)   
-    
+    * [Exercício 15 – Aluguel de Carros](PythonExercicios/ex015.py)
+     
+   * [Aula 08 – Utilizando Módulos](Aula/aula08t.py)  
+
 
   
  </details>
