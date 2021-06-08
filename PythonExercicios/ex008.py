@@ -1,5 +1,4 @@
 #08: Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
-
 v = float(input('Digite um valor em metros: '))
 cm = v * 100
 mm = v * 1000
