@@ -1,4 +1,4 @@
-#07) DESENVOLVA UM PROGRAMA QUE LEIA AS DUAS NOTAS DE UM ALUNO, CALCULE E MOSTRE A SUA MÉDIA
+#07: Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 n = float(input('Primeira nota: '))
 n1 = float(input('Segunda nota: '))
 r = (n + n1)/2
