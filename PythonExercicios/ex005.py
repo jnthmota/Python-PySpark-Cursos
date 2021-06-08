@@ -1,4 +1,4 @@
-#05)FAÇA UM PROGRAMA QUE LEIA UM NÚMERO INTEIRO E MOSTRE NA TELA O SEU SUCESSOR E SEU ANTECESSOR
+#05: Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
 n = int(input('Digite um valor: '))
 a = n - 1
 s = n + 2
