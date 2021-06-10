@@ -50,6 +50,8 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 19 – Sorteando um item na lista](PythonExercicios/ex019.py)    
     * [Exercício 20 – Sorteando uma ordem na lista](PythonExercicios/ex020.py)    
     * [Exercício 21 – Tocando um MP3](PythonExercicios/ex021.py)
+     
+   * [Aula 09 – Manipulando Texto](Aula/aula09t.py)  
 
 
   
