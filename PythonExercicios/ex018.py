@@ -5,5 +5,5 @@ a = float(input('Digite um ângulo qualquer: '))
 s = sin(radians(a))
 c = cos(radians(a))
 t = tan(radians(a))
-print('O ângulo de {} tem o "seno" de {} \nO ângulo de {} tem o "cosseno" de {} \n'
-      'O ângulo de {} tem a "tangente" de {}'.format(a, s, a, c, a, t))
+print('O ângulo de {} tem o "seno" de {:.3f} \nO ângulo de {} tem o "cosseno" de {:.3f} \n'
+      'O ângulo de {} tem a "tangente" de {:.3f}'.format(a, s, a, c, a, t))
