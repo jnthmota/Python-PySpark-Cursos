@@ -41,14 +41,15 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 13 – Reajuste Salarial](PythonExercicios/ex013.py)  
     * [Exercício 14 – Conversor de Temperaturas](PythonExercicios/ex014.py)    
     * [Exercício 15 – Aluguel de Carros](PythonExercicios/ex015.py)           
+
+     
+   * [Aula 08 – Utilizando Módulos](Aula/aula08t.py)  
     * [Exercício 16 – Quebrando um número](PythonExercicios/ex016.py)       
     * [Exercício 17 – Catetos e Hipotenusa](PythonExercicios/ex017.py)    
     * [Exercício 18 – Seno, Cosseno e Tangente](PythonExercicios/ex018.py)      
     * [Exercício 19 – Sorteando um item na lista](PythonExercicios/ex019.py)    
     * [Exercício 20 – Sorteando uma ordem na lista](PythonExercicios/ex020.py)    
     * [Exercício 21 – Tocando um MP3](PythonExercicios/ex021.py)
-     
-   * [Aula 08 – Utilizando Módulos](Aula/aula08t.py)  
 
 
   
