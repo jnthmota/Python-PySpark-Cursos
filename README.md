@@ -58,6 +58,8 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 25 – Procurando uma string dentro de outra](PythonExercicios/ex025.py)    
     * [Exercício 26 – Primeira e última ocorrência de uma string](PythonExercicios/ex026.py)    
     * [Exercício 27 – Primeiro e último nome de uma pessoa](PythonExercicios/ex027.py)
+     
+   * [Aula 10 – Condições (Parte 1)](Aula/aula10t.py) 
 
 
   
