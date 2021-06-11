@@ -1,4 +1,4 @@
-''' Um Professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele,
+''' 19 Um Professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele,
  lendo o nome deles e escrevendo o nome do escolhido.'''
 import random
 a = str(input('Primeiro Aluno: '))
