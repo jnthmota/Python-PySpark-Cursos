@@ -1,4 +1,4 @@
-'''Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados'''
+'''23 Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados'''
 l = int(input('Digite um número de 0 a 9999: '))
 a = l // 1 % 10
 b = l // 10 % 10
