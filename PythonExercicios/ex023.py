@@ -6,5 +6,5 @@ c = l // 100 % 10
 d = l // 1000 % 10
 print('Você digitou {} '.format(l))
 print('-'*50)
-print('Quarto número: {}\nTerceiro múmero: {}\nSegundo número: {}\nPrimeiro número: {}'\
+print ('Quarto número: {}\nTerceiro múmero: {}\nSegundo número: {}\nPrimeiro número: {}'\
       .format(a, b, c, d))
