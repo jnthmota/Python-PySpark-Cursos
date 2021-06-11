@@ -52,6 +52,12 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 21 – Tocando um MP3](PythonExercicios/ex021.py)
      
    * [Aula 09 – Manipulando Texto](Aula/aula09t.py)  
+    * [Exercício 22 – Analisador de Textos](PythonExercicios/ex022.py)       
+    * [Exercício 23 – Separando dígitos de um número](PythonExercicios/ex023.py)    
+    * [Exercício 24 – Verificando as primeiras letras de um texto](PythonExercicios/ex024.py)      
+    * [Exercício 25 – Procurando uma string dentro de outra](PythonExercicios/ex025.py)    
+    * [Exercício 26 – Primeira e última ocorrência de uma string](PythonExercicios/ex026.py)    
+    * [Exercício 27 – Primeiro e último nome de uma pessoa](PythonExercicios/ex027.py)
 
 
   
