@@ -122,3 +122,53 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
    * [](Aula/aulaExtrat.py)     
     * [](Aula/aulaExtrap.py)   
  </details>
+
+<details>
+  <summary>Python 3 – Mundo 3</summary>
+
+  
+   * [](Aula/ex000)
+  
+   * [](Aula/aula07t.py)  
+    * [](PythonExercicios/ex005.py)  
+    * [](PythonExercicios/ex006.py)      
+    * [](PythonExercicios/ex007.py)  
+    * [](PythonExercicios/ex008.py)   
+    * [](PythonExercicios/ex009.py)      
+    * [](PythonExercicios/ex010.py)    
+    * [](PythonExercicios/ex011.py)     
+    * [](PythonExercicios/ex012.py)   
+    * [](PythonExercicios/ex013.py)  
+    * [](PythonExercicios/ex014.py)    
+    * [](PythonExercicios/ex015.py)           
+
+     
+   * [](Aula/aula08t.py)  
+    * [](PythonExercicios/ex016.py)       
+    * [](PythonExercicios/ex017.py)    
+    * [](PythonExercicios/ex018.py)      
+    * [](PythonExercicios/ex019.py)    
+    * [](PythonExercicios/ex020.py)    
+    * [](PythonExercicios/ex021.py)
+     
+   * [](Aula/aula09t.py)  
+    * [](PythonExercicios/ex022.py)       
+    * [](PythonExercicios/ex023.py)    
+    * [](PythonExercicios/ex024.py)      
+    * [](PythonExercicios/ex025.py)    
+    * [](PythonExercicios/ex026.py)    
+    * [](PythonExercicios/ex027.py)
+     
+   * [](Aula/aula10t.py) 
+    * [](PythonExercicios/ex028.py)       
+    * [](PythonExercicios/ex029.py)    
+    * [](PythonExercicios/ex030.py)      
+    * [](PythonExercicios/ex031.py)    
+    * [](PythonExercicios/ex032.py)    
+    * [](PythonExercicios/ex033.py)
+    * [](PythonExercicios/ex034.py)    
+    * [](PythonExercicios/ex035.py)
+     
+   * [](Aula/aulaExtrat.py)     
+    * [](Aula/aulaExtrap.py)   
+ </details>
