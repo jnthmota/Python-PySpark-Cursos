@@ -70,7 +70,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 35 – Analisando Triângulo v1.0](PythonExercicios/ex035.py)
      
    * [Aula Extra – Cores no Terminal](Aula/aula11t.py)     
-    * [Cores](Aula/aula11p.py)   
+    * [Cores](Aula/aulaExtrap.py)   
  </details>
 
 <details>
@@ -133,5 +133,5 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 35 – Analisando Triângulo v1.0](PythonExercicios/ex035.py)
      
    * [Aula 11 – Cores no Terminal](Aula/aula11t.py)     
-    * [Cores](Aula/aula11p.py)   
+    * [Cores](Aula/aulaExtrap.py)   
  </details>
