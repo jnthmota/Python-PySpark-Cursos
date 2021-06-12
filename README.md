@@ -60,6 +60,14 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 27 – Primeiro e último nome de uma pessoa](PythonExercicios/ex027.py)
      
    * [Aula 10 – Condições (Parte 1)](Aula/aula10t.py) 
+    * [Exercício 28– Jogo da Adivinhação v.1.0](PythonExercicios/ex028.py)       
+    * [Exercício 29 – Radar eletrônico](PythonExercicios/ex029.py)    
+    * [Exercício 30 – Par ou Ímpar?](PythonExercicios/ex030.py)      
+    * [Exercício 31 – Custo da Viagem](PythonExercicios/ex031.py)    
+    * [Exercício 32 – Ano Bissexto](PythonExercicios/ex032.py)    
+    * [Exercício 33 – Maior e menor valores](PythonExercicios/ex033.py)
+    * [Exercício 34 – Aumentos múltiplos](PythonExercicios/ex034.py)    
+    * [Exercício 35 – Analisando Triângulo v1.0](PythonExercicios/ex035.py)
 
 
   
