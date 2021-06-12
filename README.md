@@ -69,7 +69,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 34 – Aumentos múltiplos](PythonExercicios/ex034.py)    
     * [Exercício 35 – Analisando Triângulo v1.0](PythonExercicios/ex035.py)
      
-   * [Aula 11 – Cores no Terminal](Aula/aula11t.py) 
+   * [Aula 11 – Cores no Terminal](Aula/aula11t.py)     
     * [Cores](Aula/aula11p.py) 
 
 
