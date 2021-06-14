@@ -25,5 +25,5 @@ elif p == 2:
     print('O número digitado {} convertido para Octal ficou:\n'
           '{}'.format(n, octal))
 elif p == 3:
-    print('O númnero digitado {} convertido para Hexadecimal ficou:\n'
+    print('O número digitado {} convertido para Hexadecimal ficou:\n'
           '{}'.format(n, hexadecimal))
