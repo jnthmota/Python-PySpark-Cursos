@@ -69,8 +69,8 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 34 – Aumentos múltiplos](PythonExercicios/ex034.py)    
     * [Exercício 35 – Analisando Triângulo v1.0](PythonExercicios/ex035.py)
      
-   * [Aula Extra – Cores no Terminal](Aula/aulaExtrat.py)     
-    * [Cores](Aula/aulaExtrap.py)   
+   * [Aula Extra – Cores no Terminal](Aula/aula11t.py)     
+    * [Cores](Aula/aula11p.py)   
  </details>
 
 <details>
@@ -119,8 +119,8 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [](PythonExercicios/ex034.py)    
     * [](PythonExercicios/ex035.py)
      
-   * [](Aula/aulaExtrat.py)     
-    * [](Aula/aulaExtrap.py)   
+   * [](Aula/aula11t.py)     
+    * [](Aula/aula11p.py)   
  </details>
 
 <details>
@@ -169,6 +169,6 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [](PythonExercicios/ex034.py)    
     * [](PythonExercicios/ex035.py)
      
-   * [](Aula/aulaExtrat.py)     
-    * [](Aula/aulaExtrap.py)   
+   * [](Aula/aula11t.py)     
+    * [](Aula/aula11p.py)   
  </details>
