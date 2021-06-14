@@ -12,3 +12,7 @@ if nr > nr1:
 elif nr1 > nr:
     print('-=-'*20)
     print('O valor {} é MAIOR que {}'.format(nr1, nr))
+elif nr == nr1 and nr1 == nr:
+    print('-=-'*20)
+    print('Não existe valor MAIOR \n'
+          'O primeiro valor "{}" é igual ao segundo valor "{}"'.format(nr, nr1))
