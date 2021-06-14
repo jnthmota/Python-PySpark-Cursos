@@ -77,20 +77,17 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
   <summary>Python 3 – Mundo 2</summary>
 
   
-   * [Aula 11 – Dicas e Regras](Aula/ex000)
-  
-   * [](Aula/aula07t.py)  
-    * [](PythonExercicios/ex005.py)  
-    * [](PythonExercicios/ex006.py)      
-    * [](PythonExercicios/ex007.py)  
-    * [](PythonExercicios/ex008.py)   
-    * [](PythonExercicios/ex009.py)      
-    * [](PythonExercicios/ex010.py)    
-    * [](PythonExercicios/ex011.py)     
-    * [](PythonExercicios/ex012.py)   
-    * [](PythonExercicios/ex013.py)  
-    * [](PythonExercicios/ex014.py)    
-    * [](PythonExercicios/ex015.py)           
+   * [Aula 12 – Condições Aninhadas](Aula/aula12t.py) 
+    * [Exercício 36 – Aprovando Empréstimo](PythonExercicios/ex036.py)  
+    * [Exercício 37 – Conversor de Bases Numéricas](PythonExercicios/ex037.py)      
+    * [Exercício 38 – Comparando números](PythonExercicios/ex038.py)  
+    * [Exercício 39 – Alistamento Militar](PythonExercicios/ex039.py)   
+    * [Exercício 40 – Aquele clássico da Média](PythonExercicios/ex040.py)      
+    * [Exercício 41 – Classificando Atletas](PythonExercicios/ex041.py)    
+    * [Exercício 42 – Analisando Triângulos v2.0](PythonExercicios/ex042.py)     
+    * [Exercício 43 – Índice de Massa Corporal](PythonExercicios/ex043.py)   
+    * [Exercício 44 – Gerenciador de Pagamentos](PythonExercicios/ex044.py)  
+    * [Exercício 45 – GAME: Pedra Papel e Tesoura](PythonExercicios/ex045.py)
 
      
    * [](Aula/aula08t.py)  
@@ -119,8 +116,6 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [](PythonExercicios/ex034.py)    
     * [](PythonExercicios/ex035.py)
      
-   * [](Aula/aula11t.py)     
-    * [](Aula/aula11p.py)   
  </details>
 
 <details>
