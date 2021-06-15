@@ -27,3 +27,5 @@ elif p == 2:
 elif p == 3:
     print('O número digitado {} convertido para Hexadecimal ficou:\n'
           '{}'.format(n, hexadecimal))
+else:
+    print('Opção inválida, tente novamente digitando entre [1][2][3]')
