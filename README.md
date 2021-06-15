@@ -92,7 +92,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
      
    * [Aula 13 – Estrutura de repetição for](Aula/aulat.py)  
     * [Exercício 46 – Contagem regressiva](PythonExercicios/ex0.py)       
-    * [Exercícios 47 – Contagem de pares](PythonExercicios/ex0.py)    
+    * [Exercício 47 – Contagem de pares](PythonExercicios/ex0.py)    
     * [Exercício 48 – Soma ímpares múltiplos de três](PythonExercicios/ex0.py)      
     * [Exercício 49 – Tabuada v.2.0](PythonExercicios/ex0.py)    
     * [Exercício 50 – Soma dos pares](PythonExercicios/ex0.py)    
