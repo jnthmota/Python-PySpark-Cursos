@@ -104,7 +104,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 56 – Analisador completo](PythonExercicios/ex0.py)    
 
      
-   * [Aula 14 – Estrutura de repetição while](Aula/aula.py) 
+   * [Aula 14 – Estrutura de repetição while](Aula/aula.py)     
     * [Exercício 57 – Validação de Dados](PythonExercicios/ex0.py)       
     * [Exercício 58 – Jogo da Adivinhação v2.0](PythonExercicios/ex0.py)    
     * [Exercício 59 – Criando um Menu de Opções](PythonExercicios/ex0.py)      
