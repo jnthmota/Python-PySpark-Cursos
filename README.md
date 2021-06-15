@@ -115,7 +115,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 64 – Tratando vários valores v1.0](PythonExercicios/ex0.py)    
     * [Exercício 65 – Maior e Menor valores](PythonExercicios/ex0.py)  
      
-   * [Aula 15 – Interrompendo repetições while](Aula/aula.py) 
+   * [Aula 15 – Interrompendo repetições while](Aula/aula.py)     
     * [Exercício 66 – Vários números com flag](PythonExercicios/ex0.py)       
     * [Exercício 67 – Tabuada v3.0](PythonExercicios/ex0.py)    
     * [Exercício 68 – Jogo do Par ou Ímpar](PythonExercicios/ex0.py)      
