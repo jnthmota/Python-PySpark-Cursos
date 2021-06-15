@@ -104,15 +104,16 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 56 – Analisador completo](PythonExercicios/ex0.py)    
 
      
-   * [](Aula/aula10t.py) 
-    * [](PythonExercicios/ex028.py)       
-    * [](PythonExercicios/ex029.py)    
-    * [](PythonExercicios/ex030.py)      
-    * [](PythonExercicios/ex031.py)    
-    * [](PythonExercicios/ex032.py)    
-    * [](PythonExercicios/ex033.py)   
-    * [](PythonExercicios/ex034.py)      
-    * [](PythonExercicios/ex035.py)
+   * [Aula 14 – Estrutura de repetição while](Aula/aula.py) 
+    * [Exercício 57 – Validação de Dados](PythonExercicios/ex0.py)       
+    * [Exercício 58 – Jogo da Adivinhação v2.0](PythonExercicios/ex0.py)    
+    * [Exercício 59 – Criando um Menu de Opções](PythonExercicios/ex0.py)      
+    * [Exercício 60 – Cálculo do Fatorial](PythonExercicios/ex0.py)    
+    * [Exercício 61 – Progressão Aritmética v2.0](PythonExercicios/ex0.py)    
+    * [Exercício 62 – Super Progressão Aritmética v3.0](PythonExercicios/ex0.py)   
+    * [Exercício 63 – Sequência de Fibonacci v1.0](PythonExercicios/ex0.py)        
+    * [Exercício 64 – Tratando vários valores v1.0](PythonExercicios/ex0.py)    
+    * [Exercício 65 – Maior e Menor valores](PythonExercicios/ex0.py)  
      
  </details>
 
