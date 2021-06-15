@@ -96,7 +96,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 48 – Soma ímpares múltiplos de três](PythonExercicios/ex0.py)      
     * [Exercício 49 – Tabuada v.2.0](PythonExercicios/ex0.py)    
     * [Exercício 50 – Soma dos pares](PythonExercicios/ex0.py)    
-    * [Exercício 51 – Progressão Aritmética](PythonExercicios/ex0.py)
+    * [Exercício 51 – Progressão Aritmética](PythonExercicios/ex0.py)   
     * [Exercício 52 – Números primos](PythonExercicios/ex0.py)       
     * [Exercício 53 – Detector de Palíndromo](PythonExercicios/ex0.py)    
     * [Exercício 54 – Grupo da Maioridade](PythonExercicios/ex0.py)      
