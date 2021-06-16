@@ -23,7 +23,7 @@ elif f == 2:
     print('Preço do produto com 5% de desconto R$ {}'.format(regra))
 elif f == 3:
     regra = p / 2
-    print('Preço do produto R${} em 2x no cartão R$ {}'.format(p, regra))
+    print('Preço do produto R${} em 2x no cartão ficou em R$ {}'.format(p, regra))
 elif f == 4:
     parcela = int(input('Quantas parcelas você deseja? '))
     regra = (p / 100) * 120
