@@ -15,15 +15,15 @@ if imc < 18.5:
     print('-=-'*20)
     print('Seu IMC esta em {:.2f}\n'
           '"ABAIXO DO PESO"'.format(imc))
-elif imc >= 18.5 and imc <= 25:
+elif 18.5 <= imc < 25:
     print('-=-'*20)
     print('Seu IMC esta em {:.2f}\n'
           '"PESO IDEAL"'.format(imc))
-elif imc > 25 and imc <= 30:
+elif 25 <= imc < 30:
     print('-=-'*20)
     print('Seu IMC esta {:.2f}\n'
           '"SOBREPESO"'.format(imc))
-elif imc > 30 and imc < 40:
+elif 30 <= imc < 40:
     print('-=-'*20)
     print('Seu IMC esta {:.2f}\n'
           '"OBESIDADE'.format(imc))
