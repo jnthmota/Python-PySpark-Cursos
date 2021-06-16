@@ -7,8 +7,8 @@ de acordo coma tabela abaixo:
 - 30 até 40: Obesidade
 - Acima de 40: Obesidade mórbida
 '''
-p = float(input('Digite seu peso: '))
-a = float(input('Digite sua altura: '))
+p = float(input('Digite seu peso: KG '))
+a = float(input('Digite sua altura: M '))
 altura = a * a
 imc = p / altura
 if imc < 18.5:
