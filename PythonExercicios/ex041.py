@@ -23,6 +23,6 @@ elif idade > 14 and idade <= 19:
 elif idade > 19 and idade <= 20:
     print('Você tem {} anos, portanto sua categoria é: \n'
           'SENIOR')
-elif idade > 20:
+else:
     print('Você tem {} anos, portanto sua categoria é: \n'
           'MASTER'.format(idade))
