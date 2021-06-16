@@ -15,11 +15,11 @@ if c < 5.0:
     print('-=-'*20)
     print('Sua média foi de {} \n'
           'REPROVADO! Se dedique mais.'.format(c))
-elif c > 5.0 and c < 6.9:
+elif c > 5.0 and c <= 6.9:
     print('-=-'*20)
     print('Sua média foi de {} \n'
           'RECUPERAÇÃO! Estude mais.'.format(c))
-elif c >= 7.0:
+else:
     print('-=-'*20)
     print('Sua média foi de {} \n'
           'APROVADO! Parabéns ...'.format(c))
