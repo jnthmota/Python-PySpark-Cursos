@@ -28,7 +28,7 @@ elif f == 4:
     print('Preço do produto em 3x com juros no cartão R${}'.format(regra))
 else:
     print('-=-' * 20)
-    print('Opção inválida, digite \n'
+    print('Opção inválida, digite: \n'
           '1 - À vista/cheque - desconto de 10%\n'
           '2 - À vista no cartão - desconto de 5%\n'
           '3 - Em até 2x no cartão - Preço normal\n'
