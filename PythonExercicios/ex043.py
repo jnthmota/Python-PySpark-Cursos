@@ -14,7 +14,7 @@ imc = p / altura
 if imc < 18.5:
     print('-=-'*20)
     print('Seu IMC esta em {:.2f}\n'
-          '"ABAIXO DO PESO"')
+          '"ABAIXO DO PESO"'.format(imc))
 elif imc >= 18.5 and imc <= 25:
     print('-=-'*20)
     print('Seu IMC esta em {:.2f}\n'
