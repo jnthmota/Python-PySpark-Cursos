@@ -24,8 +24,11 @@ elif f == 2:
 elif f == 3:
     print('Preço do produto em 2x no cartão R${}'.format(p))
 elif f == 4:
+    parcela = int(input('Quantas parcelas você deseja? '))
     regra = (p / 100) * 120
-    print('Preço do produto em 3x com juros no cartão R${}'.format(regra))
+    x = (regra / parcela)
+    print('Preço do produto ficou em {}x de R$:{} \n'
+          'Valor total de R$:{} com 20% de juros'.format(parcela, x, regra))
 else:
     print('-=-' * 20)
     print('Opção inválida, digite: \n'
