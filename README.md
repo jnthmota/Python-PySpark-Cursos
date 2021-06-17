@@ -90,7 +90,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 45 – GAME: Pedra Papel e Tesoura](PythonExercicios/ex045.py)
 
      
-   * [Aula 13 – Estrutura de repetição for](Aula/aulat.py)  
+   * [Aula 13 – Estrutura de repetição for](Aula/aula13t.py)  
     * [Exercício 46 – Contagem regressiva](PythonExercicios/ex0.py)       
     * [Exercício 47 – Contagem de pares](PythonExercicios/ex0.py)    
     * [Exercício 48 – Soma ímpares múltiplos de três](PythonExercicios/ex0.py)      
