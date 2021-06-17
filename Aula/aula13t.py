@@ -46,4 +46,12 @@ laco c no intervalo(0,3)
    pula
 passo
 pega
+
+for c in range(0,3)
+   if moeda:
+      pega
+   passo
+   pula
+passo
+pega
 '''
