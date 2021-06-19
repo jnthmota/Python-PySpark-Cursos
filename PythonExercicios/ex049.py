@@ -7,3 +7,4 @@ print('-=-' * 10)
 for t in range(1, 11):
     r = tabuada * t
     print('{}x{} = {}'.format(tabuada, t, r))
+print('-=-' * 10)
