@@ -4,6 +4,7 @@ No final, mostre os 10 primeiros termos dessa progressão.
 '''
 p = int(input('Primeiro termo: '))
 r = int(input('Razão: '))
-for c in range(p, 11, r):
+d = p + (10 - 1) * r
+for c in range(p, d + r, r):
     print('{}'.format(c))
 print('-=-' * 10)
