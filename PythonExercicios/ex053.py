@@ -12,7 +12,7 @@ ANOTARAM A DATA DA MARATONA
 f = str(input('Digite uma frase: ')).strip().upper()
 p = f.split()
 j = ''.join(p)
-i = ''
+i = '' #j[::-1] SEM FOR
 for c in range(len(j) -1, -1, -1):
     i += j[c]
 if i == j:
