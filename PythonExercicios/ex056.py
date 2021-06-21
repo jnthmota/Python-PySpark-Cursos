@@ -32,3 +32,4 @@ print('-=-' * 20)
 print('A média de idade do grupo é \33[31m{}\33[m\n'
       'O nome do homem mais velho tem \33[34m{}\33[m é se chama \33[34m{}\33[m\n'
       'Existe \33[31m{}\33[m mulheres que tem menos de 20 anos'.format(midade, mridade, nvelho, qtmulher))
+print('-=-' * 20)
