@@ -7,7 +7,7 @@ from datetime import date
 a = date.today().year
 mr = 0
 mn = 0
-for c in range(1,8):
+for c in range(1, 8):
     l = int(input('Qual ano de nascimento da {}° pessoa?  '.format(c)))
     idade = a - l
     if idade >= 21:
