@@ -14,7 +14,7 @@ for p in range(1, 6):
             mr = peso
         if peso < mn:
             mn = peso
-print('-=-' * 13)
+print('-=-' * 12)
 print('O MAIOR PESO é: \33[31m{}\33[m\n'
       'O MENOR PESO é: \33[31m{}\33[m'.format(mr, mn))
-print('-=-' * 13)
+print('-=-' * 12)
