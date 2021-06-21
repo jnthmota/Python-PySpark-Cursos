@@ -8,3 +8,16 @@ A TORRE DA DERROTA
 O LOBO AMA O BOLO
 ANOTARAM A DATA DA MARATONA
 '''
+
+f = str(input('Digite uma frase: ')).strip().upper()
+p = f.split()
+j = ''.join(p)
+i = ''
+for c in range(len(j) -1, -1, -1):
+    i += j[c]
+if i == j:
+    print('PALÍNDROMO')
+    print('Inverso de \33[31m{}\33[m ficou \33[31m{}\33[m'.format(f, i))
+else:
+    print('Frase não é um PALÍNDROMO')
+print('-=-' * 10)
