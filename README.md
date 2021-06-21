@@ -91,17 +91,17 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
 
      
    * [Aula 13 – Estrutura de repetição for](Aula/aula13t.py)  
-    * [Exercício 46 – Contagem regressiva](PythonExercicios/ex0.py)       
-    * [Exercício 47 – Contagem de pares](PythonExercicios/ex0.py)    
-    * [Exercício 48 – Soma ímpares múltiplos de três](PythonExercicios/ex0.py)      
-    * [Exercício 49 – Tabuada v.2.0](PythonExercicios/ex0.py)    
-    * [Exercício 50 – Soma dos pares](PythonExercicios/ex0.py)    
-    * [Exercício 51 – Progressão Aritmética](PythonExercicios/ex0.py)   
-    * [Exercício 52 – Números primos](PythonExercicios/ex0.py)       
-    * [Exercício 53 – Detector de Palíndromo](PythonExercicios/ex0.py)    
-    * [Exercício 54 – Grupo da Maioridade](PythonExercicios/ex0.py)      
-    * [Exercício 55 – Maior e menor da sequência](PythonExercicios/ex0.py)    
-    * [Exercício 56 – Analisador completo](PythonExercicios/ex0.py)    
+    * [Exercício 46 – Contagem regressiva](PythonExercicios/ex046.py)       
+    * [Exercício 47 – Contagem de pares](PythonExercicios/ex047.py)    
+    * [Exercício 48 – Soma ímpares múltiplos de três](PythonExercicios/ex048.py)      
+    * [Exercício 49 – Tabuada v.2.0](PythonExercicios/ex049.py)    
+    * [Exercício 50 – Soma dos pares](PythonExercicios/ex050.py)    
+    * [Exercício 51 – Progressão Aritmética](PythonExercicios/ex051.py)   
+    * [Exercício 52 – Números primos](PythonExercicios/ex052.py)       
+    * [Exercício 53 – Detector de Palíndromo](PythonExercicios/ex053.py)    
+    * [Exercício 54 – Grupo da Maioridade](PythonExercicios/ex054.py)      
+    * [Exercício 55 – Maior e menor da sequência](PythonExercicios/ex055.py)    
+    * [Exercício 56 – Analisador completo](PythonExercicios/ex056.py)    
 
      
    * [Aula 14 – Estrutura de repetição while](Aula/aula.py)     
