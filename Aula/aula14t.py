@@ -37,4 +37,5 @@ while not apple:
         pula
     if moeda:
         pega
+pega
 '''
