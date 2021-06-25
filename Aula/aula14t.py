@@ -9,7 +9,7 @@ c+=1
 
 print(‘Acabou’)
 '''
-# Não sabe o limite While
+# Não sabe o limite , usa While
 '''
 enquanto não apple
     passo
