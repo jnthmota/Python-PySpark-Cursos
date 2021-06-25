@@ -9,3 +9,13 @@ c+=1
 
 print(‘Acabou’)
 '''
+# Não sabe o limite While
+'''
+enquanto não apple
+    passo
+pega
+
+while not apple:
+    passo
+pega
+'''
