@@ -19,3 +19,22 @@ while not apple:
     passo
 pega
 '''
+#======================================
+'''
+enquanto não apple
+    se buraco
+      passo
+    se notburaco
+      pula
+    se moeda
+      pega
+pega
+
+while not apple:
+    if buraco:
+        passo
+    if notburaco:
+        pula
+    if moeda:
+        pega
+'''
