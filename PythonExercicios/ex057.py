@@ -13,5 +13,6 @@ while sexo != 'M' and sexo != 'F':
     if sexo == 'F':
         print('Seu gênero e \33[31mFeminino\33[m')
     if sexo != 'M' and sexo != 'F':
+        print('-=-' * 10)
         print('\33[31mOpção inválida digite novamente!\33[m')
 print('-=-' * 10)
