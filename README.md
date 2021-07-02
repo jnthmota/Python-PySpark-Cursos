@@ -111,8 +111,8 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 60 – Cálculo do Fatorial](PythonExercicios/ex060.py)    
     * [Exercício 61 – Progressão Aritmética v2.0](PythonExercicios/ex061.py)    
     * [Exercício 62 – Super Progressão Aritmética v3.0](PythonExercicios/ex062.py)   
-    * [Exercício 63 – Sequência de Fibonacci v1.0](PythonExercicios/ex0.py)        
-    * [Exercício 64 – Tratando vários valores v1.0](PythonExercicios/ex0.py)    
+    * [Exercício 63 – Sequência de Fibonacci v1.0](PythonExercicios/ex063.py)        
+    * [Exercício 64 – Tratando vários valores v1.0](PythonExercicios/ex064.py)    
     * [Exercício 65 – Maior e Menor valores](PythonExercicios/ex0.py)  
      
    * [Aula 15 – Interrompendo repetições while](Aula/aula.py)     
