@@ -118,7 +118,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
    * [Aula 15 – Interrompendo repetições while](Aula/aula15.py)     
     * [Exercício 66 – Vários números com flag](PythonExercicios/ex066.py)       
     * [Exercício 67 – Tabuada v3.0](PythonExercicios/ex067.py)    
-    * [Exercício 68 – Jogo do Par ou Ímpar](PythonExercicios/ex0.py)      
+    * [Exercício 68 – Jogo do Par ou Ímpar](PythonExercicios/ex068.py)      
     * [Exercício 69 – Análise de dados do grupo](PythonExercicios/ex0.py)    
     * [Exercício 70 – Estatísticas em produtos](PythonExercicios/ex0.py)    
     * [Exercício 71 – Simulador de Caixa Eletrônico](PythonExercicios/ex0.py)
