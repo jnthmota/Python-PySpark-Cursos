@@ -121,7 +121,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 68 – Jogo do Par ou Ímpar](PythonExercicios/ex068.py)      
     * [Exercício 69 – Análise de dados do grupo](PythonExercicios/ex069.py)    
     * [Exercício 70 – Estatísticas em produtos](PythonExercicios/ex070.py)    
-    * [Exercício 71 – Simulador de Caixa Eletrônico](PythonExercicios/ex0.py)
+    * [Exercício 71 – Simulador de Caixa Eletrônico](PythonExercicios/ex071.py)
  </details>
 
 <details>
