@@ -76,7 +76,6 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
 <details>
   <summary>Python 3 – Mundo 2</summary>
 
-  
    * [Aula 12 – Condições Aninhadas](Aula/aula12t.py)   
     * [Exercício 36 – Aprovando Empréstimo](PythonExercicios/ex036.py)  
     * [Exercício 37 – Conversor de Bases Numéricas](PythonExercicios/ex037.py)      
