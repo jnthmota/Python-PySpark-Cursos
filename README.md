@@ -127,7 +127,6 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
 <details>
   <summary>Python 3 – Mundo 3</summary>
 
-
    * [](Aula/aula07t.py)  
     * [](PythonExercicios/ex005.py)  
     * [](PythonExercicios/ex006.py)      
