@@ -100,8 +100,7 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 53 – Detector de Palíndromo](PythonExercicios/ex053.py)    
     * [Exercício 54 – Grupo da Maioridade](PythonExercicios/ex054.py)      
     * [Exercício 55 – Maior e menor da sequência](PythonExercicios/ex055.py)    
-    * [Exercício 56 – Analisador completo](PythonExercicios/ex056.py)    
-
+    * [Exercício 56 – Analisador completo](PythonExercicios/ex056.py)
      
    * [Aula 14 – Estrutura de repetição while](Aula/aula14t.py)     
     * [Exercício 57 – Validação de Dados](PythonExercicios/ex057.py)       
