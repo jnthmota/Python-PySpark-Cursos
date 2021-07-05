@@ -87,7 +87,6 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [Exercício 43 – Índice de Massa Corporal](PythonExercicios/ex043.py)   
     * [Exercício 44 – Gerenciador de Pagamentos](PythonExercicios/ex044.py)  
     * [Exercício 45 – GAME: Pedra Papel e Tesoura](PythonExercicios/ex045.py)
-
      
    * [Aula 13 – Estrutura de repetição for](Aula/aula13t.py)  
     * [Exercício 46 – Contagem regressiva](PythonExercicios/ex046.py)       
