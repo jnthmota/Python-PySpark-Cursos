@@ -135,7 +135,6 @@ Irei armezanar exercicios resolvidos de cursos de Python e PySpark
     * [](PythonExercicios/ex013.py)  
     * [](PythonExercicios/ex014.py)    
     * [](PythonExercicios/ex015.py)           
-
      
    * [](Aula/aula08t.py)  
     * [](PythonExercicios/ex016.py)       
