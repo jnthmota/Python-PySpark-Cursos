@@ -16,3 +16,14 @@ while sexo != 'M' and sexo != 'F':
         print('-=-' * 10)
         print('\33[31mOpção inválida digite novamente!\33[m')
 print('-=-' * 10)
+
+
+''' Outra forma '''
+
+sexo = str(input('Qual é seu gênero? \n'
+                          '[M] Masculino\n'
+                          '[F] Feminino\n'
+                          'Digite sua escolha: ')).upper()[0]
+while sexo not in 'MmFf':
+    sexo = str(input('\33[31mOpção inválida digite novamente!\33[m')).strip().upper()[0]
+print('Seu gênero é {}')
