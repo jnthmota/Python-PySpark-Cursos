@@ -6,7 +6,7 @@ Ex
 '''
 n = int(input('Digite um número inteiro: '))
 print('Sequência de Fibonacci do número {} ficou: '.format(n))
-print('#' * 50)
+print('#' * 90)
 t = 0
 t1 = 1
 print('{} \33[31m ==> \33[33m {}'.format(t, t1), end='')
@@ -17,4 +17,5 @@ while con <= n:
     t = t1
     t1 = t2
     con += 1
-print('\33[31m ==> # FIM #\33[33m')
+print('\33[31m ==> # FIM # \33[m')
+print('#' * 90)
